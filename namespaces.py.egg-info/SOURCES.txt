@@ -1,0 +1,7 @@
+pyproject.toml
+setup.py
+./mod.c
+namespaces.py.egg-info/PKG-INFO
+namespaces.py.egg-info/SOURCES.txt
+namespaces.py.egg-info/dependency_links.txt
+namespaces.py.egg-info/top_level.txt
