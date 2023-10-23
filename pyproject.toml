@@ -1,3 +1,16 @@
 [build-system]
 requires = ["setuptools"]
 build-backend = "setuptools.build_meta"
+
+[project]
+name = "namespaces.py"
+description = "No more stupid dots."
+readme = "README.md"
+requires-python = ">=3.7"
+authors = [
+    { name = "ZeroIntensity", email = "zintensitydev@gmail.com" }
+]
+version = "1.0.1"
+
+[project.urls]
+Source = "https://github.com/ZeroIntensity/namespaces.py"
