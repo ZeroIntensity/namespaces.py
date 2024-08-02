@@ -27,7 +27,7 @@ Test[::"hello"]()  # hello world!
 ## Features
 
 - Cool `::` C++ like symbol to make you feel special
-- Show your linter whose boss
+- Show your linter who's boss
 - Pretend this is a feature, I wanted to have 3 listed here to make it seem more even
 
 ## Installation
