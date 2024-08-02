@@ -11,6 +11,7 @@ authors = [
     { name = "ZeroIntensity", email = "zintensitydev@gmail.com" }
 ]
 version = "1.0.1"
+dynamic = ["license"]
 
 [project.urls]
 Source = "https://github.com/ZeroIntensity/namespaces.py"
